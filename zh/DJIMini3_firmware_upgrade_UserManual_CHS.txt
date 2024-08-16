@@ -1,0 +1,28 @@
+
+固件升级
+使用 DJl Fly App或者DJI Assistant 2(Consumer Drones Series)调参软件对飞行器和遥控器 进行升级。
+
+使用DJI Fly App升 级
+连接飞行器与遥控器(若飞行器未与遥控器连接则无法升级)后运行DJI Fly,根 据 DJI Fly的提 示进行固件升级。升级时需连接互联网。
+使用DJI  Assistant  2(Consumer  Drones  Series)升 级
+使用DJI Assistant 2(Consumer Drones Series)调参软件分别升级遥控器与飞行器。 飞行器升级步骤如下：
+1.  启动 DJI Assistant 2(Consumer Drones Series)调参软件，使用 DJI 账号登录并进入主 界面。
+2.   开启飞行器，并在20秒内用USB-C数据线连接飞行器的USB-C接口与电脑。
+3 . 在DJI  Assistant  2(Consumer  Drones   Series)调参软件界面点击 “DJI   Mini   3”,然后点击 固件升级按钮。
+4. 选择并确认需要升级的固件版本。
+5.DJI Assistant 2(Consumer Drones Series)调参软件将自行下载并升级固件。
+6. 等待升级完成即可。
+
+遥控器升级步骤如下：
+1.  启动 DJI Assistant 2(Consumer  Drones Series)调参软件，使用DJI 账号登录并进入主 界面。
+2.开启遥控器，用USB-C数据线连接遥控器的USB-C接口与电脑。
+3. 在 DJI Assistant 2(Consumer Drones Series)调参软件界面点击已连接的遥控器名称，然 后点击固件升级按钮。
+4. 选择并确认需要升级的固件版本。
+5.DJI Assistant 2(Consumer Drones Series)调参软件将自行下载并升级固件。
+6. 等待升级完成即可。
+△ ·确保按步骤升级固件，否则可能导致升级失败。
+·整个升级过程将持续10分钟左右。在升级过程中飞行器可能会出现如下状况：云台无 力，状态指示灯异常闪烁或飞行器自行重启，以上均属正常现象，请耐心等待固件升 级完成。
+·确保整个升级过程中个人电脑能够访问互联网。
+·确保升级时飞行器和遥控器电量至少在20%以上。 ·升级过程中请勿插拔 USB 数据线。
+
+62       O2024 大疆创新版权所有

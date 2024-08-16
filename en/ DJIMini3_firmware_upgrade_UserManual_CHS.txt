@@ -2,27 +2,27 @@
 Firmware Upgrade
 Upgrades Aircraft and Remote Controller by DJI Fly App or DJI Assistant 2 (Consumer Drones Series).
 
-使用DJI Fly App升 级
+Upgrade via DJI Fly App
 Launch DJI Fly App after connecting the aircraft to the remote controller (it cannot be upgraded if the aircraft is not connected to the remote controller), upgrade firmware according to the prompts from DJI Fly App. Connect to the Internet when upgrades.
 Upgrade via DJI  Assistant  2
 Upgrade aircraft and remote controller separately with DJI Assistant 2(Consumer Drones Series). Aircraft upgrade steps as below:
 1.  Launch DJI Assistant 2 (Consumer Drones Series) Software, sign in with DJI account and enter the main page.
 2.   Switch on the aircraft and connect the aircraft to the computer's USB-C interface within 20 seconds using the USB-C cable.
 3. Press “DJI Mini 3”  on User Interface of the DJI Assistant 2 (Consumer Drones Series) and then click on the firmware upgrade button.
-4. Select and confirm firmware versions that need to be upgraded to.
-5.DJI Assistant 2 (Consumer Drones Series) Sender will download and upgrade firmware on its own.
-6. 等待升级完成即可。
+4. Select and confirm target firmware version.
+5.DJI Assistant 2 (Consumer Drones Series) will download and upgrade firmware on its own.
+6. Just wait for upgrade to complete.
 
-遥控器升级步骤如下：
-1.  启动 DJI Assistant 2(Consumer  Drones Series)调参软件，使用DJI 账号登录并进入主 界面。
-2.开启遥控器，用USB-C数据线连接遥控器的USB-C接口与电脑。
-3. 在 DJI Assistant 2(Consumer Drones Series)调参软件界面点击已连接的遥控器名称，然 后点击固件升级按钮。
-4. 选择并确认需要升级的固件版本。
-5.DJI Assistant 2(Consumer Drones Series)调参软件将自行下载并升级固件。
-6. 等待升级完成即可。
-△ ·确保按步骤升级固件，否则可能导致升级失败。
-·整个升级过程将持续10分钟左右。在升级过程中飞行器可能会出现如下状况：云台无 力，状态指示灯异常闪烁或飞行器自行重启，以上均属正常现象，请耐心等待固件升 级完成。
-·确保整个升级过程中个人电脑能够访问互联网。
-·确保升级时飞行器和遥控器电量至少在20%以上。 ·升级过程中请勿插拔 USB 数据线。
+The remote controller upgrade steps as below:
+1.  Launch DJI Assistant 2 (Consumer Drones Series) Software, sign in with DJI account and enter the main page.
+Turn on the remote controller and connect it to the computer's USB-C interface within 20 seconds using the USB-C cable.
+3. Select the connected remote controller on the user interface of the DJI Assistant 2 (Consumer Drones Series) and then click on the firmware upgrade button.
+4. Select and confirm target firmware version.
+5.DJI Assistant 2 (Consumer Drones Series) will download and upgrade firmware on its own.
+6. Just wait for upgrade to complete.
+Ensure you've followed above firmware upgrade steps, otherwise, it may lead to upgrade failure.
+· The overall upgrade process will last for around10 minutes. During the upgrade process, the aircraft may encounter below situations: the gimbal is unresponding, the status LED light abnormally blinking or the aircraft is auto restarted. These are normal symptom. Please patiently wait until the firmware upgrade is completed.
+Ensure personal computer have Internet access during the upgrade process.
+Ensure the aircraft and remote control have at least 20% battery when upgrades. Do not plug and unplug USB cable while upgrading
 
-62       O2024 大疆创新版权所有
+O2024 Copyright © DJI Creative

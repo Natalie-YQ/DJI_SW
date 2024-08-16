@@ -1,16 +1,16 @@
 
-固件升级
-使用 DJl Fly App或者DJI Assistant 2(Consumer Drones Series)调参软件对飞行器和遥控器 进行升级。
+Firmware Upgrade
+Upgrades Aircraft and Remote Controller by DJI Fly App or DJI Assistant 2 (Consumer Drones Series).
 
 使用DJI Fly App升 级
-连接飞行器与遥控器(若飞行器未与遥控器连接则无法升级)后运行DJI Fly,根 据 DJI Fly的提 示进行固件升级。升级时需连接互联网。
-使用DJI  Assistant  2(Consumer  Drones  Series)升 级
-使用DJI Assistant 2(Consumer Drones Series)调参软件分别升级遥控器与飞行器。 飞行器升级步骤如下：
-1.  启动 DJI Assistant 2(Consumer Drones Series)调参软件，使用 DJI 账号登录并进入主 界面。
-2.   开启飞行器，并在20秒内用USB-C数据线连接飞行器的USB-C接口与电脑。
-3 . 在DJI  Assistant  2(Consumer  Drones   Series)调参软件界面点击 “DJI   Mini   3”,然后点击 固件升级按钮。
-4. 选择并确认需要升级的固件版本。
-5.DJI Assistant 2(Consumer Drones Series)调参软件将自行下载并升级固件。
+Launch DJI Fly App after connecting the aircraft to the remote controller (it cannot be upgraded if the aircraft is not connected to the remote controller), upgrade firmware according to the prompts from DJI Fly App. Connect to the Internet when upgrades.
+Upgrade via DJI  Assistant  2
+Upgrade aircraft and remote controller separately with DJI Assistant 2(Consumer Drones Series). Aircraft upgrade steps as below:
+1.  Launch DJI Assistant 2 (Consumer Drones Series) Software, sign in with DJI account and enter the main page.
+2.   Switch on the aircraft and connect the aircraft to the computer's USB-C interface within 20 seconds using the USB-C cable.
+3. Press “DJI Mini 3”  on User Interface of the DJI Assistant 2 (Consumer Drones Series) and then click on the firmware upgrade button.
+4. Select and confirm firmware versions that need to be upgraded to.
+5.DJI Assistant 2 (Consumer Drones Series) Sender will download and upgrade firmware on its own.
 6. 等待升级完成即可。
 
 遥控器升级步骤如下：

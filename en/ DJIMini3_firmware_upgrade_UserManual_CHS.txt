@@ -1,0 +1,28 @@
+
+Firmware Upgrade
+Upgrades Aircraft and Remote Controller by DJI Fly App or DJI Assistant 2 (Consumer Drones Series).
+
+Upgrade via DJI Fly App
+Launch DJI Fly App after connecting the aircraft to the remote controller (it cannot be upgraded if the aircraft is not connected to the remote controller), upgrade firmware according to the prompts from DJI Fly App. Connect to the Internet when upgrades.
+Upgrade via DJI  Assistant  2
+Upgrade aircraft and remote controller separately with DJI Assistant 2(Consumer Drones Series). Aircraft upgrade steps as below:
+1.  Launch DJI Assistant 2 (Consumer Drones Series) Software, sign in with DJI account and enter the main page.
+2.   Switch on the aircraft and connect the aircraft to the computer's USB-C interface within 20 seconds using the USB-C cable.
+3. Press “DJI Mini 3”  on User Interface of the DJI Assistant 2 (Consumer Drones Series) and then click on the firmware upgrade button.
+4. Select and confirm target firmware version.
+5.DJI Assistant 2 (Consumer Drones Series) will download and upgrade firmware on its own.
+6. Just wait for upgrade to complete.
+
+The remote controller upgrade steps as below:
+1.  Launch DJI Assistant 2 (Consumer Drones Series) Software, sign in with DJI account and enter the main page.
+Turn on the remote controller and connect it to the computer's USB-C interface within 20 seconds using the USB-C cable.
+3. Select the connected remote controller on the user interface of the DJI Assistant 2 (Consumer Drones Series) and then click on the firmware upgrade button.
+4. Select and confirm target firmware version.
+5.DJI Assistant 2 (Consumer Drones Series) will download and upgrade firmware on its own.
+6. Just wait for upgrade to complete.
+Ensure you've followed above firmware upgrade steps, otherwise, it may lead to upgrade failure.
+· The overall upgrade process will last for around10 minutes. During the upgrade process, the aircraft may encounter below situations: the gimbal is unresponding, the status LED light abnormally blinking or the aircraft is auto restarted. These are normal symptom. Please patiently wait until the firmware upgrade is completed.
+Ensure personal computer have Internet access during the upgrade process.
+Ensure the aircraft and remote control have at least 20% battery when upgrades. Do not plug and unplug USB cable while upgrading
+
+O2024 Copyright © DJI Creative
